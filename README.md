@@ -57,8 +57,8 @@ Hi 👋, I am **Giingu** an enthusiastic and ambitious full stack developer. I s
 ## 📘 My top open source projects
 
 <p align="left">
-  <a href="https://github.com/DenverCoder1/custom-icon-badges"><img width="25%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=Giingu&repo=DiscordPlus&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img width="25%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DBM-Extended&repo=mods&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false" alt="readme-typing-svg"></a>
+  <a href="https://github.com/Giingu/DiscordPlus"><img width="25%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=Giingu&repo=DiscordPlus&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>
+  <a href="https://github.com/DBM-Extended"><img width="25%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DBM-Extended&repo=mods&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false" alt="readme-typing-svg"></a>
 </p>
 
 <p align="left">
