@@ -31,7 +31,7 @@ Hi 👋, I am **Giingu** an enthusiastic and ambitious full stack developer and 
 
 - 👨‍💻 All of my projects are available at [miaxu.co](https://miaxu.co)
 
-- 💬 Ask me about **open source, web development, and Node.js**
+- 💬 Ask me about **open source, web development, and community management**
 
 - 📫 Reach me out at **contact@miaxu.co**
 
