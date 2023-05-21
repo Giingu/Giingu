@@ -1,10 +1,10 @@
-<a href="https://discord.gg/shiba"><img src="https://i.imgur.com/z1oWSiy.png" width="100%" height="auto"/></a>
+<a href="https://discord.gg/pochita"><img src="https://i.imgur.com/z1oWSiy.png" width="100%" height="auto"/></a>
 <p align="center">
   <a href="https://www.youtube.com/UCRX2pao9vPLyVcPEQWIlUoA"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://twitter.com/MiaxuOfficial"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://discord.gg/shiba" alt="Join our community"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
+  <a href="https://discord.gg/pochita" alt="Join our community"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://dev.to/giingu"><img width="32px" alt="Dev.to" title="Giingu Dev.to" src="https://i.imgur.com/mVm29vK.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
