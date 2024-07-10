@@ -1,8 +1,8 @@
-<a href="https://top.gg/bot/623481583411658753"><img src="https://i.imgur.com/z1oWSiy.png" width="100%" height="auto"/></a>
+<a href="https://top.gg/bot/623481583411658753"><img src="https://github.com/aliiakbarkhan/aliiakbarkhan/blob/main/Black%20Grey%20Aqua%20Grunge%20Gaming%20YouTube%20Banner%20(2).png" width="100%" height="auto"/></a>
 <p align="center">
-  <a href="https://www.youtube.com/UCRX2pao9vPLyVcPEQWIlUoA"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
+  <a href="https://www.youtube.com/channel/UClYAED0QKX6ggIYaVL10Drg"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://twitter.com/NezukoSocial"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
+  <a href="https://x.com/aliiakbarkhan"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://discord.gg/pochita" alt="Join our community"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
@@ -17,23 +17,23 @@
 
 <p>
   
-Hi 👋, I am **Giingu** an enthusiastic and ambitious full stack developer, product lead at [@PicnicApp](https://www.linkedin.com/company/get-picnic/mycompany/) and community manager. I specialise in Web Development, JavaScript and Design. I love to network, join new communities and add value ✨
+Hi 👋, I am **Ali Akbar Khan** an enthusiastic and ambitious Computer Science Student, Founder at [@Tech10.in](https://www.instagram.com/tech10.in/) and Graphics Designer. I specialise in Web Development, Data Science and Design. I love to network, join new communities and add value ✨
 
 <div>
 <details>
   <summary>🧑 More about me</summary>
 
-- 🔭 I’m currently on a journey to build **great** things
+- 🔭 I’m currently on a journey of learning to build **great** things
 
 - 🌱 I’m currently learning **everything** 🤓
 
 - 🤝 I’m looking for help with **finding projects to contribute to!**
 
-- 👨‍💻 All of my projects are available at [miaxu.co](https://www.linkedin.com/in/sergiogarciagamez/)
+- 👨‍💻 All of my projects are available over [LinkedIn](https://www.linkedin.com/in/aliakbar-khan/)
 
-- 💬 Ask me about **open source, web development, and community management**
+- 💬 Ask me about **Programing, web development, and Graphics Design**
 
-- 📫 Reach me out at **contact@miaxu.co**
+- 📫 Reach me out at **aliakbarkhana79@gmail.com**
 
 </details>
   
@@ -51,14 +51,14 @@ Hi 👋, I am **Giingu** an enthusiastic and ambitious full stack developer, pro
 
 <img align="right" width="38%" src="https://i.imgur.com/VxANS89.jpg"/>
 
-  <a href="https://github.com/Giingu"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=Giingu&theme=radical&title_color=ff3068?"></a>
-  <a href="https://github.com/Giingu"><img width="50%" src="http://github-readme-streak-stats.herokuapp.com/?user=Giingu&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068"></a>
+  <a href="https://github.com/aliiakbarkhan"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=aliiakbarkhan&theme=radical&title_color=ff3068?"></a>
+  <a href="https://github.com/aliiakbarkhan"><img width="50%" src="http://github-readme-streak-stats.herokuapp.com/?user=aliiakbarkhan&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068"></a>
 
 ## 📘 My top open source projects
 
 <p align="left">
-    <a href="https://github.com/Enhanced-TTVDropBot"><img width="25%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Giingu&repo=Enhanced-TTVDropBot&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false" alt="readme-typing-svg"></a>
-  <a href="https://github.com/Giingu/DiscordPlus"><img width="25%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=Giingu&repo=DiscordPlus&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>
+    <a href="https://github.com/aliiakbarkhan/hackerrank-solutions"><img width="25%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=aliiakbarkhan&repo=hackerrank-solutions&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false" alt="readme-typing-svg"></a>
+  <a href="https://github.com/aliiakbarkhan/tekken-VIII-website-project"><img width="25%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=aliiakbarkhan&repo=tekken-VIII-website-project&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>
 </p>
 
 <p align="left">
